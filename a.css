@@ -1,0 +1,54 @@
+body {
+    background-color: black;
+    margin: 5%;
+}
+.apj{
+color: aliceblue;
+}
+
+
+#title {
+    text-align: center;
+    text-shadow: 5px 5px 10px white;
+    font-size: 7vh;
+color: aliceblue;
+}
+
+img {
+margin-left: 15%;
+    display: inline-block;
+    size: 30%;
+    margin-left: 33%;
+    
+}
+
+
+#caption {
+    font-size: 25.5px;
+    font-family: Gill Sans;
+    color: black;
+}
+
+
+div#tribute-data {
+    background-color: rgba(69, 71, 70, 0.25);
+    box-shadow: 20px 20px 20px #585a58;
+    font-family: Georgia;
+    padding: 25px 25px;
+    margin: 11px;
+    margin-top: 50px;
+}
+
+
+h1.title-APJ {
+    font-size: 35px;
+    color: white;
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+}
+
+
+#tribute-link {
+    text-decoration: none;
+    color: black;
+}
